@@ -6,4 +6,6 @@ This is a project that I did as part of the "Internet of Things" course in my 5t
 
 2.)IDE used: Arduino IDE 1.8.5
 
+3.)Application used:Blynk
+
 The objective of this project is to construct an Indoor air quality monitoring system for detecting toxic gases.
