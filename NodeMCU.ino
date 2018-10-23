@@ -4,9 +4,9 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 #include <MQ2Lib.h>
-char auth[] = "c65d61f4b00c4487b94f6f893c5ab042";
-char ssid[] = "Moto";
-char pass[] = "mansiswami";
+char auth[] = "ENTER BLYNK AUT CODE";
+char ssid[] = "ENTER NETWORK NAME";
+char pass[] = "ENTER NETWORK NAME";
 int pin = A0;
 float lpg = 0, co = 0, smoke = 0;
 BlynkTimer timer;
